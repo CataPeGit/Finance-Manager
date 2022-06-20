@@ -1,8 +1,7 @@
 # Finance-Manager
-&nbsp;&nbsp;
-### An application meant to help with managing money and keeping track of a person's purchases and account balance.
+An application meant to help with managing money and keeping track of a person's purchases and account balance.
 &nbsp;
-###One can add new users, set their balance and former puchases, add new purchases which will modify account balance.
+One can add new users, set their balance and former puchases, add new purchases which will modify account balance.
 &nbsp;&nbsp;
 
 ![1](https://user-images.githubusercontent.com/74926354/174605339-64f3e938-81ef-4685-b902-08d01fbf3be4.png)
